@@ -72,7 +72,7 @@ July 13, 1993 Prototype:
 A prototype of Sonic Chaos (also known as Sonic & Tails in Japan) for the Sega Master System.
 
 The build lacks an intro.
-There's no title theme from the final because, the trademark is missing.
+Because the trademark is missing, there's no title theme.
 The game will go to a "demo mode" after a few seconds at the title screen. However, no demos have been recorded yet and so the player just stands in place for a few seconds.
 Pressing start at the title screen brings you to the level select.
 Strings for five special stages can be located in the ROM immediately after the level select strings but they do not load for some reason.
