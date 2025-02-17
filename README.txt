@@ -51,7 +51,7 @@ A prototype of Sonic Chaos (also known as Sonic & Tails in Japan) for the Sega M
 
 While the EPROMs do note imply the date, the ROM itself says "MS SONIC.THE.HEDGEHOG.3 Ver0.20 1993/06/30 @SEGA/Aspect Co.,Ltd". However, the title screen uses its own string which specifies the same date.
 This build contains a much more simplistic title screen that specifies both international/localized titles as well as a version number and build date.
-The build lacks an intro.
+The build lacks an intro sequence.
 The game will go to a "demo mode" after a few seconds at the title screen. However, no demos have been recorded yet and so the player just stands in place for a few seconds.
 Pressing start at the title screen brings you to the level select, five additional special stages have been added as well. While not properly displayed on the level select menu, the 5th special stage can be accessed by pressing down after the 4th.
 The sound test hasn't been programmed yet.
@@ -72,7 +72,7 @@ July 13, 1993 Prototype:
 A prototype of Sonic Chaos (also known as Sonic & Tails in Japan) for the Sega Master System.
 
 While the EPROMs state the date "13-7", the ROM itself says "MS SONIC.THE.HEDGEHOG.3 Ver0.20 1993/06/30 @SEGA/Aspect Co.,Ltd".
-The build lacks an intro.
+The build lacks an intro sequence.
 Because the trademark is missing, there's no title theme.
 The game will go to a "demo mode" after a few seconds at the title screen. However, no demos have been recorded yet and so the player just stands in place for a few seconds.
 Pressing start at the title screen brings you to the level select.
