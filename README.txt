@@ -71,6 +71,7 @@ July 13, 1993 Prototype:
 
 A prototype of Sonic Chaos (also known as Sonic & Tails in Japan) for the Sega Master System.
 
+While the EPROMs state the date "13-7", the ROM itself says "MS SONIC.THE.HEDGEHOG.3 Ver0.20 1993/06/30 @SEGA/Aspect Co.,Ltd".
 The build lacks an intro.
 Because the trademark is missing, there's no title theme.
 The game will go to a "demo mode" after a few seconds at the title screen. However, no demos have been recorded yet and so the player just stands in place for a few seconds.
